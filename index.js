@@ -42,7 +42,7 @@ Client.on("interactionCreate", interaction => {
     }
 });
 
-Client.login(process.env.TOKEN);
+Client.login(process.env.token);
 
 //!ping
 Client.on("messageCreate", message => {
