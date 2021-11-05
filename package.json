@@ -12,6 +12,9 @@
     "start": "node index.js"
   },
   "author": "DelTaZz",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": "17.0.1"
+  }
   
 }
